@@ -1,4 +1,6 @@
-# cisc-simulator
+# Complex Instruction Set Computer Simulator (CISC Simulator)
+
+This simulator enables users to execute instructions that involve loading and storing values at specific addresses in the main memory, utilizing a common bus system for these operations. Its primary function is to provide a realistic and interactive environment for understanding and analyzing the workings of CISC architecture. Users can input instructions in binary format, observe the simulation of memory and cache operations, and interact with various components like input and output text fields, and a cache scroll pane. The simulator serves as an educational tool, enhancing the learning experience by visualizing the complex processes involved in CISC-based computing systems.
 
 # Instruction Manual (Single Person Group)
 
